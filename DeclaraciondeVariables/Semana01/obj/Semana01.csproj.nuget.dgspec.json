@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sneyk\\Desktop\\Programacion1 en visual 2022\\DeclaracionvVariables\\DeclaracionvVariables\\DeclaracionvVariables.csproj": {}
+    "C:\\Users\\sneyk\\Desktop\\Programacion1 en visual 2022\\DeclaraciondeVariables\\Semana01\\Semana01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sneyk\\Desktop\\Programacion1 en visual 2022\\DeclaracionvVariables\\DeclaracionvVariables\\DeclaracionvVariables.csproj": {
+    "C:\\Users\\sneyk\\Desktop\\Programacion1 en visual 2022\\DeclaraciondeVariables\\Semana01\\Semana01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sneyk\\Desktop\\Programacion1 en visual 2022\\DeclaracionvVariables\\DeclaracionvVariables\\DeclaracionvVariables.csproj",
-        "projectName": "DeclaracionvVariables",
-        "projectPath": "C:\\Users\\sneyk\\Desktop\\Programacion1 en visual 2022\\DeclaracionvVariables\\DeclaracionvVariables\\DeclaracionvVariables.csproj",
+        "projectUniqueName": "C:\\Users\\sneyk\\Desktop\\Programacion1 en visual 2022\\DeclaraciondeVariables\\Semana01\\Semana01.csproj",
+        "projectName": "Semana01",
+        "projectPath": "C:\\Users\\sneyk\\Desktop\\Programacion1 en visual 2022\\DeclaraciondeVariables\\Semana01\\Semana01.csproj",
         "packagesPath": "C:\\Users\\sneyk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sneyk\\Desktop\\Programacion1 en visual 2022\\DeclaracionvVariables\\DeclaracionvVariables\\obj\\",
+        "outputPath": "C:\\Users\\sneyk\\Desktop\\Programacion1 en visual 2022\\DeclaraciondeVariables\\Semana01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
